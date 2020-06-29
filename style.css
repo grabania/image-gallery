@@ -4,3 +4,13 @@ html {
 	font-family: 'Pangolin', cursive;
 	font-size: 30px;
 }
+
+body {
+	margin: 0;
+}
+
+*,
+*:before,
+*:after {
+	box-sizing: inherit;
+}
