@@ -18,6 +18,7 @@ body {
 .panels {
 	min-height: 100vh;
 	overflow: hidden;
+	display: flex;
 }
 
 .panel {
@@ -29,21 +30,21 @@ body {
 }
 
 .panel1 {
-	background-image: url(https://www.designboom.com/cms/images/--Z89/ishhh.jpg);
+	background-image: url(https://www.parisupdate.com/wp-content/uploads/2018/06/ParisUpdate-Junya-Ishigami-Fondation-Cartier-Art-Biofarm.jpg);
 }
 
 .panel2 {
-	background-image: url(https://www.designboom.com/cms/images/--Z89/ishhh.jpg);
+	background-image: url(https://www.parisupdate.com/wp-content/uploads/2018/06/ParisUpdate-Junya-Ishigami-Fondation-Cartier-Art-Biofarm.jpg);
 }
 
 .panel3 {
-	background-image: url(https://www.designboom.com/cms/images/--Z89/ishhh.jpg);
+	background-image: url(https://i0.wp.com/www.caddownloadweb.com/wp-content/uploads/2018/06/junya-ishigamis-art-biotop-project-of-a-water-garden-in-tochigi-japan-opens.jpg?resize=450%2C370&ssl=1);
 }
 
 .panel4 {
-	background-image: url(https://www.designboom.com/cms/images/--Z89/ishhh.jpg);
+	background-image: url(https://www.parisupdate.com/wp-content/uploads/2018/06/ParisUpdate-Junya-Ishigami-Fondation-Cartier-Art-Biofarm.jpg);
 }
 
 .panel5 {
-	background-image: url(https://www.designboom.com/cms/images/--Z89/ishhh.jpg);
+	background-image: url(https://www.parisupdate.com/wp-content/uploads/2018/06/ParisUpdate-Junya-Ishigami-Fondation-Cartier-Art-Biofarm.jpg);
 }
