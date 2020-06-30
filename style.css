@@ -1,6 +1,6 @@
 html {
 	box-sizing: border-box;
-	background: #fff;
+	background: red;
 	font-family: 'Pangolin', cursive;
 	font-size: 30px;
 }
@@ -13,4 +13,37 @@ body {
 *:before,
 *:after {
 	box-sizing: inherit;
+}
+
+.panels {
+	min-height: 100vh;
+	overflow: hidden;
+}
+
+.panel {
+	color: #fff;
+	text-align: center;
+	align-items: center;
+	background-size: cover;
+	background-position: center;
+}
+
+.panel1 {
+	background-image: url(https://www.designboom.com/cms/images/--Z89/ishhh.jpg);
+}
+
+.panel2 {
+	background-image: url(https://www.designboom.com/cms/images/--Z89/ishhh.jpg);
+}
+
+.panel3 {
+	background-image: url(https://www.designboom.com/cms/images/--Z89/ishhh.jpg);
+}
+
+.panel4 {
+	background-image: url(https://www.designboom.com/cms/images/--Z89/ishhh.jpg);
+}
+
+.panel5 {
+	background-image: url(https://www.designboom.com/cms/images/--Z89/ishhh.jpg);
 }
