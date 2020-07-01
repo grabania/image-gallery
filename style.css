@@ -27,6 +27,9 @@ body {
 	align-items: center;
 	background-size: cover;
 	background-position: center;
+	flex: 1;
+	justify-content: center;
+	display: flex;
 }
 
 .panel1 {
@@ -39,12 +42,4 @@ body {
 
 .panel3 {
 	background-image: url(https://i0.wp.com/www.caddownloadweb.com/wp-content/uploads/2018/06/junya-ishigamis-art-biotop-project-of-a-water-garden-in-tochigi-japan-opens.jpg?resize=450%2C370&ssl=1);
-}
-
-.panel4 {
-	background-image: url(https://www.parisupdate.com/wp-content/uploads/2018/06/ParisUpdate-Junya-Ishigami-Fondation-Cartier-Art-Biofarm.jpg);
-}
-
-.panel5 {
-	background-image: url(https://www.parisupdate.com/wp-content/uploads/2018/06/ParisUpdate-Junya-Ishigami-Fondation-Cartier-Art-Biofarm.jpg);
 }
