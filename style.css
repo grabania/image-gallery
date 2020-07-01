@@ -30,6 +30,7 @@ body {
 	flex: 1;
 	justify-content: center;
 	display: flex;
+	flex-direction: column;
 }
 
 .panel1 {
@@ -42,4 +43,16 @@ body {
 
 .panel3 {
 	background-image: url(https://i0.wp.com/www.caddownloadweb.com/wp-content/uploads/2018/06/junya-ishigamis-art-biotop-project-of-a-water-garden-in-tochigi-japan-opens.jpg?resize=450%2C370&ssl=1);
+}
+
+.panel > * {
+	margin: 0;
+	width: 100%;
+	transition: transform 0.5s;
+	border: 1px solid blue;
+	flex: 1 0 auto;
+	font-size: 2em;
+	display: flex;
+	justify-content: center;
+	align-items: center;
 }
