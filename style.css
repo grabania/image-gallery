@@ -76,3 +76,9 @@ body {
 .panel-open {
 	flex: 5;
 }
+
+@media only screen and (max-width: 600px) {
+	.panel p {
+		font-size: 1em;
+	}
+}
